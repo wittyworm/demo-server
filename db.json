@@ -2,7 +2,7 @@
     "config" :
         {
             "evidence-log-interval": 20,
-            "cache-refresh-interval": 3600,
+            "cache-refresh-interval": 10,
             "evidence-submission-interval": 900
         }
 }
